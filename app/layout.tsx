@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Đặng Quang Huy | Portfolio",
   description:
-    "Portfolio of Đặng Quang Huy (HyuDeQueue) — aspiring database architect and backend developer. Skilled in Java, Spring Boot, FastAPI, React, Docker, and cloud platforms. Explore projects including Sportunify, TodoListFastAPI, BookStore, and more.",
+    "Portfolio of Đặng Quang Huy (HyuDeQueue) — aspiring devOps and backend developer. Skilled in Java, Spring Boot, FastAPI, React, Docker, and cloud platforms. Explore projects including Sportunify, TodoListFastAPI, BookStore, and more.",
   keywords: [
     "Đặng Quang Huy",
     "HyuDeQueue",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     description:
       "Portfolio of backend developer & aspiring database architect. Explore projects like Sportunify, TodoListFastAPI, and more.",
     images: ["https://avatars.githubusercontent.com/u/156757704?v=4"],
-    creator: "@your_twitter_handle"
+    creator: "@huyhoang204205"
   },
   category: "Technology"
 };
