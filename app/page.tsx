@@ -15,7 +15,7 @@ export default function Portfolio() {
 
       <footer className="py-8 px-6 border-t border-border">
         <div className="max-w-4xl mx-auto text-center text-muted-foreground">
-          <p>&copy; 2025 Đặng Quang Huy. Built with React & Tailwind CSS.</p>
+          <p>&copy; 2025 Đặng Quang Huy.</p>
         </div>
       </footer>
     </div>
