@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack -p 3455",
-    "build": "next build --turbopack -p 3455",
-    "start": "next start",
+    "build": "next build --turbopack",
+    "start": "next start -p 3455",
     "lint": "eslint"
   },
   "dependencies": {
